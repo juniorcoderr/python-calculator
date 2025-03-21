@@ -1,4 +1,5 @@
 **Project Name**: Python Calculator  
+
 A simple yet functional command-line calculator built in Python. This project supports basic arithmetic operations—addition, subtraction, multiplication, and division—with the ability to chain calculations using the result of the previous operation. It features user input handling and a clean interface, making it an excellent learning tool for Python beginners. Key skills demonstrated include functions, loops, and basic error handling. Contributions and suggestions for improvement are welcome!
 
 ### Issues with My Code
